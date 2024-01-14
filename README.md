@@ -3,5 +3,5 @@ The project seeks to identify clusters of tourists sharing similar trip destinat
 Each trip is distinct, featuring a unique destination, and the objective is to discern and categorize trips that form communities based on their respective destinations. 
 For instance, tourists with trip destinations to Nightclubs may constitute communities alongside those with trip destinations to Spas.
 Two community detection algorithms were implemented from scratch:
-1) Non-Overlapping Community Detection employing the Louvain Method.
+1) Non-Overlapping Community Detection employing the Louvain Method. <br>
 2) Overlapping Community Detection utilizing the  Label Propagation Method.
